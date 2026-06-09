@@ -43,7 +43,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [MongoDB](https://www.mong
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/AeroGate.git](https://github.com/YourUsername/AeroGate.git)
+   git clone https://github.com/MohamedSroor/AeroGate.git
 
 2. Navigate to the project directory:
     cd AeroGate
